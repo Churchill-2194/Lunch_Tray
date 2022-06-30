@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_startOrderFragment_to_entreeMenuFragment" type="id" />
+    <item name="entreeMenuFragment" type="id" />
+    <item name="action_entreeMenuFragment_sideMenufragment" type="id" />
+    <item name="sideMenuFragment" type="id" />
+    <item name="action_sideMenuFragment_accompanimentMenuFragment" type="id" />
+    <item name="accompanimentMenuFragment" type="id" />
+    <item name="action_accompanimentMenuFragment_checkoutFragment" type="id" />
+    <item name="checkoutFragment" type="id" />
+    <item name="action_accompanimentMenuFragment_startOrderFragment" type="id" />
+    <item name="action_sideMenuFragment_entreeMenuFragment" type="id" />
+    <item name="action_entreeMenuFragment_startOrderFragment" type="id" />
+    <item name="action_entreeMenuFragment_sideMenuFragment_" type="id" />
+    <item name="action_accompanimentMenuFragment_sideMenuFragment" type="id" />
+    <item name="actions_checkoutFragment_to_startOrderFragment" type="id" />
+</resources>
